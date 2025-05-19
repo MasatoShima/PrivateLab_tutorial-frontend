@@ -5,6 +5,8 @@
     "esModuleInterop": true,
     "forceConsistentCasingInFileNames": true,
     "strict": true,
+    "noImplicitAny": true,
+    "exactOptionalPropertyTypes": true,
     "skipLibCheck": true,
     "outDir": "dist"
   },
